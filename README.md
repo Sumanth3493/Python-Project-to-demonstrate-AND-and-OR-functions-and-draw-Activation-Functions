@@ -1,0 +1,3 @@
+# Python-Project-to-demonstrate-AND-and-OR-functions-and-draw-Activation-Functions
+Use Neural network for implantation of ‘AND’ and ‘OR’ functions by using Python language. - Show in a graph (for visualization of ‘AND’ and ‘OR’) - Show the equation of the line - Mention the weight - What is the bias - Show the calculation in a table - Include the code as well 2. Use Python to draw Activation functions - Sigmoid - Hyperbolic tangent - ReLU - A graph to superimpose all three
+This was another academic Project which I pursued in my 3rd semester to draw activation functions upon the demonstration of AND-and-OR functions. The Project was coded using python programming on Jupyter Notebooks.
